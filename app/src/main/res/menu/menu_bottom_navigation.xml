@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home" android:title="@string/bottom_home" android:icon="@drawable/icon_home"/>
+    <item android:id="@+id/menu_history" android:title="@string/bottom_history" android:icon="@drawable/icon_history"/>
+    <item android:id="@+id/menu_wallet" android:title="@string/bottom_wallet" android:icon="@drawable/icon_wallet"/>
+    <item android:id="@+id/menu_mess" android:title="@string/bottom_mess" android:icon="@drawable/icon_mess"/>
+    <item android:id="@+id/menu_acc" android:title="@string/bottom_acc" android:icon="@drawable/icon_acc"/>
+</menu>
